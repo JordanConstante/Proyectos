@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "periodo": "Semestre 7",
+        "profesor": "Jordan Constante",
+        "asignatura": "Circuitos",
+        "detalleNota": [
+            {
+                "id": 1,
+                "estudiante": {
+                    "Id": 2,
+                    "Nombre": "Jordan Constante",
+                    "Active": true,
+                    "Fecha_creacion": "2024-09-08"
+                },
+                "nota1": 200.0,
+                "nota2": 300.0,
+                "recuperacion": null,
+                "observacion": ""
+            }
+        ],
+        "fecha_creacion": "2024-09-11",
+        "active": true
+    },
+    {
+        "id": 2,
+        "periodo": "Semestre 2",
+        "profesor": "Karla Santillan",
+        "asignatura": "Circuitos",
+        "detalleNota": [
+            {
+                "id": 1,
+                "estudiante": {
+                    "Id": 2,
+                    "Nombre": "Jordan Constante",
+                    "Active": true,
+                    "Fecha_creacion": "2024-09-08"
+                },
+                "nota1": 100.0,
+                "nota2": 100.0,
+                "recuperacion": null,
+                "observacion": ""
+            }
+        ],
+        "fecha_creacion": "2024-09-11",
+        "active": true
+    },
+    {
+        "id": 3,
+        "periodo": "Semestre 7",
+        "profesor": "Juanito Sanca",
+        "asignatura": "Circuitos",
+        "detalleNota": [
+            {
+                "id": 1,
+                "estudiante": {
+                    "Id": 1,
+                    "Nombre": "Karliux Sanca",
+                    "Active": false,
+                    "Fecha_creacion": "2024-09-08"
+                },
+                "nota1": 100.0,
+                "nota2": 100.0,
+                "recuperacion": null,
+                "observacion": ""
+            }
+        ],
+        "fecha_creacion": "2024-09-11",
+        "active": true
+    },
+    {
+        "id": 5,
+        "periodo": "Semestre 3",
+        "profesor": "Juanito Sanca",
+        "asignatura": "Logica",
+        "detalleNota": [
+            {
+                "id": 1,
+                "estudiante": {
+                    "Id": 1,
+                    "Nombre": "Karliux Sanca",
+                    "Active": false,
+                    "Fecha_creacion": "2024-09-08"
+                },
+                "nota1": 40.0,
+                "nota2": 60.0,
+                "recuperacion": null,
+                "observacion": ""
+            },
+            {
+                "id": 2,
+                "estudiante": {
+                    "Id": 2,
+                    "Nombre": "Jordan Constante",
+                    "Active": true,
+                    "Fecha_creacion": "2024-09-08"
+                },
+                "nota1": 100.0,
+                "nota2": 100.0,
+                "recuperacion": null,
+                "observacion": ""
+            }
+        ],
+        "fecha_creacion": "2024-09-11",
+        "active": true
+    }
+]

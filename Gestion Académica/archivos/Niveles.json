@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 2,
+        "Nivel": "Secundaria",
+        "Fecha_creacion": "2024-09-08",
+        "Active": true
+    },
+    {
+        "Id": 3,
+        "Nivel": "Semestre 4",
+        "Fecha_creacion": "2024-09-11",
+        "Active": true
+    }
+]

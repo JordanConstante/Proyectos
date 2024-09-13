@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 4,
+        "Periodo": "Semestre 3",
+        "Fecha_creacion": "2024-09-11",
+        "Active": false
+    },
+    {
+        "Id": 5,
+        "Periodo": "Semestre 8",
+        "Fecha_creacion": "2024-09-11",
+        "Active": false
+    },
+    {
+        "Id": 6,
+        "Periodo": "Semestre 7",
+        "Fecha_creacion": "2024-09-11",
+        "Active": false
+    },
+    {
+        "Id": 7,
+        "Periodo": "Semestre 2",
+        "Fecha_creacion": "2024-09-11",
+        "Active": true
+    }
+]

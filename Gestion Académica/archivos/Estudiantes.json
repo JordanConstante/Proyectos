@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Karliux Sanca",
+        "Active": false,
+        "Fecha_creacion": "2024-09-08"
+    },
+    {
+        "Id": 2,
+        "Nombre": "Jordan Constante",
+        "Active": true,
+        "Fecha_creacion": "2024-09-08"
+    },
+    {
+        "Id": 4,
+        "Nombre": "Jim",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 5,
+        "Nombre": "Karl",
+        "Active": false,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 6,
+        "Nombre": "Jhon",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    }
+]

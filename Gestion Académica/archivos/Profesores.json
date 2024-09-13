@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Juanito Sanca",
+        "Active": true,
+        "Fecha_creacion": "2024-09-08"
+    },
+    {
+        "Id": 2,
+        "Nombre": "Jessica Cabrera",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 3,
+        "Nombre": "Frank Cede\u00f1o",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 4,
+        "Nombre": "Jordan Constante",
+        "Active": false,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 5,
+        "Nombre": "Karla Santillan",
+        "Active": false,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 6,
+        "Nombre": "Juan Santillan",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    }
+]

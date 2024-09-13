@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 4,
+        "Descripcion": "Logica",
+        "Nivel": "2do Nivel",
+        "Active": true,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 5,
+        "Descripcion": "Circuitos",
+        "Nivel": "6to Nivel",
+        "Active": false,
+        "Fecha_creacion": "2024-09-11"
+    },
+    {
+        "Id": 6,
+        "Descripcion": "Fisica",
+        "Nivel": "2do Nivel",
+        "Active": false,
+        "Fecha_creacion": "2024-09-11"
+    }
+]
